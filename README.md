@@ -1,0 +1,2 @@
+A random number guessing game implemented using MIPS assembly language. For this project, we used the MARS 4.2 MIPS Assembler and Runtime Simulator. A random number is generated within a specified range
+during compilation, and is stored in a register. The user is then prompted to guess a number, and the code enters a While loop. The code will keep prompting the user to guess until the right number has been met.
